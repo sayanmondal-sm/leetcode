@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0941-valid-mountain-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
