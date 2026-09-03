@@ -19,4 +19,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/sayanmondal-sm/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/sayanmondal-sm/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/sayanmondal-sm/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
