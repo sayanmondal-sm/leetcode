@@ -11,8 +11,6 @@ public:
                 j--;
             }else if(nums[i] % 2 ==0){
                 i++;
-            }else if(nums[i] % 2 ==0 && nums[j] % 2!=0){
-                i++;
             }
         }
         return nums;
