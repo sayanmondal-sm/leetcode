@@ -10,6 +10,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0941-valid-mountain-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/sayanmondal-sm/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
