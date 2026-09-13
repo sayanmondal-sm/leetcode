@@ -11,6 +11,7 @@
 | [0941-valid-mountain-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/sayanmondal-sm/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -72,4 +73,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/sayanmondal-sm/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 <!---LeetCode Topics End-->
