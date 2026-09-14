@@ -36,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/sayanmondal-sm/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
+| [0836-rectangle-overlap](https://github.com/sayanmondal-sm/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [3870-count-commas-in-range](https://github.com/sayanmondal-sm/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
@@ -74,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/sayanmondal-sm/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
+| [0836-rectangle-overlap](https://github.com/sayanmondal-sm/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
