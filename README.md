@@ -7,6 +7,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0812-largest-triangle-area](https://github.com/sayanmondal-sm/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0835-image-overlap](https://github.com/sayanmondal-sm/leetcode/tree/main/0835-image-overlap/) | Medium |
+| [0867-transpose-matrix](https://github.com/sayanmondal-sm/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/sayanmondal-sm/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0941-valid-mountain-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
@@ -92,9 +93,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/sayanmondal-sm/leetcode/tree/main/0835-image-overlap/) | Medium |
+| [0867-transpose-matrix](https://github.com/sayanmondal-sm/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/sayanmondal-sm/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 <!---LeetCode Topics End-->
