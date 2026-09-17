@@ -51,6 +51,7 @@
 | [0409-longest-palindrome](https://github.com/sayanmondal-sm/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0541-reverse-string-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0709-to-lower-case](https://github.com/sayanmondal-sm/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
