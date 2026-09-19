@@ -74,6 +74,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/sayanmondal-sm/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sayanmondal-sm/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/sayanmondal-sm/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -125,6 +126,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/sayanmondal-sm/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sayanmondal-sm/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
