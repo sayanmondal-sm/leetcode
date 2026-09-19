@@ -124,6 +124,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sayanmondal-sm/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -136,4 +137,8 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sayanmondal-sm/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
