@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sayanmondal-sm/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sayanmondal-sm/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -129,6 +130,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/sayanmondal-sm/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sayanmondal-sm/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -143,4 +145,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
