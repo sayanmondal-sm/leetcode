@@ -62,6 +62,7 @@
 | [0541-reverse-string-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0709-to-lower-case](https://github.com/sayanmondal-sm/leetcode/tree/main/0709-to-lower-case/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -160,8 +161,10 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
