@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0812-largest-triangle-area](https://github.com/sayanmondal-sm/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0835-image-overlap](https://github.com/sayanmondal-sm/leetcode/tree/main/0835-image-overlap/) | Medium |
@@ -162,6 +163,7 @@
 | [0020-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/sayanmondal-sm/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -172,4 +174,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sayanmondal-sm/leetcode/tree/main/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
