@@ -57,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/sayanmondal-sm/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/sayanmondal-sm/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sayanmondal-sm/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -70,6 +71,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sayanmondal-sm/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/sayanmondal-sm/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Backtracking
@@ -164,6 +166,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sayanmondal-sm/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/sayanmondal-sm/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -173,6 +176,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Design
 | Problem Name | Difficulty |
