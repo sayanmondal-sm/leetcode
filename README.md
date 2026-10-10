@@ -18,6 +18,7 @@
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sayanmondal-sm/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1929-concatenation-of-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/sayanmondal-sm/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -134,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/sayanmondal-sm/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1929-concatenation-of-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
