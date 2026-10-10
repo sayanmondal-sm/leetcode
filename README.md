@@ -50,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sayanmondal-sm/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0342-power-of-four](https://github.com/sayanmondal-sm/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0812-largest-triangle-area](https://github.com/sayanmondal-sm/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/sayanmondal-sm/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sayanmondal-sm/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -159,6 +160,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/sayanmondal-sm/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/sayanmondal-sm/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@
 | [0002-add-two-numbers](https://github.com/sayanmondal-sm/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0342-power-of-four](https://github.com/sayanmondal-sm/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
