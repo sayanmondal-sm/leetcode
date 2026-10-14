@@ -1,5 +1,23 @@
 class Solution {
 public:
+     int totalDigit(int n){
+        int count = 0;
+        while(n>0){
+        int digit = n%10;
+        count++;
+        n = n/10;
+    }
+    return count;
+    }
+    int digitSum(int n){
+        int sum = 0;
+        while(n>0){
+        int digit = n%10;
+        sum += digit;
+        n = n/10;   
+    }
+    return sum;
+    }
     string maxSumOfSquares(int num, int sum) {
         int scores = 0;
         int finalscores = 0;
