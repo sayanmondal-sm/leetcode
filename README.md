@@ -24,6 +24,7 @@
 | [2404-most-frequent-even-element](https://github.com/sayanmondal-sm/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sayanmondal-sm/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sayanmondal-sm/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/sayanmondal-sm/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -108,6 +109,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/sayanmondal-sm/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sayanmondal-sm/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sayanmondal-sm/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -233,4 +235,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sayanmondal-sm/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sayanmondal-sm/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sayanmondal-sm/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
