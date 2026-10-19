@@ -22,6 +22,7 @@
 | [1470-shuffle-the-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sayanmondal-sm/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/sayanmondal-sm/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -52,6 +53,7 @@
 | [0905-sort-array-by-parity](https://github.com/sayanmondal-sm/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sayanmondal-sm/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -246,4 +248,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sayanmondal-sm/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sayanmondal-sm/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
