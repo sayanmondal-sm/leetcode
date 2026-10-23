@@ -134,10 +134,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -261,8 +263,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
