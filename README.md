@@ -28,6 +28,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sayanmondal-sm/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sayanmondal-sm/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sayanmondal-sm/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/sayanmondal-sm/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -180,6 +181,7 @@
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/sayanmondal-sm/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/sayanmondal-sm/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sayanmondal-sm/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
