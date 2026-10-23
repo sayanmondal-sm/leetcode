@@ -9,6 +9,7 @@
 | [0485-max-consecutive-ones](https://github.com/sayanmondal-sm/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0645-set-mismatch](https://github.com/sayanmondal-sm/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/sayanmondal-sm/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0812-largest-triangle-area](https://github.com/sayanmondal-sm/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0835-image-overlap](https://github.com/sayanmondal-sm/leetcode/tree/main/0835-image-overlap/) | Medium |
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/sayanmondal-sm/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/sayanmondal-sm/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/sayanmondal-sm/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -112,6 +114,7 @@
 | [0389-find-the-difference](https://github.com/sayanmondal-sm/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/sayanmondal-sm/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0645-set-mismatch](https://github.com/sayanmondal-sm/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/sayanmondal-sm/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sayanmondal-sm/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -184,6 +187,7 @@
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/sayanmondal-sm/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/sayanmondal-sm/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/sayanmondal-sm/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sayanmondal-sm/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
