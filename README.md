@@ -86,6 +86,7 @@
 | [0709-to-lower-case](https://github.com/sayanmondal-sm/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0856-score-of-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sayanmondal-sm/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
 ## Dynamic Programming
@@ -239,6 +240,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sayanmondal-sm/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sayanmondal-sm/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sayanmondal-sm/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
