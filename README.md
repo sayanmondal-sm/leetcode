@@ -20,6 +20,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sayanmondal-sm/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sayanmondal-sm/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -56,6 +57,7 @@
 | [0905-sort-array-by-parity](https://github.com/sayanmondal-sm/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sayanmondal-sm/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sayanmondal-sm/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
 ## Math
@@ -117,6 +119,7 @@
 | [0409-longest-palindrome](https://github.com/sayanmondal-sm/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sayanmondal-sm/leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/sayanmondal-sm/leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sayanmondal-sm/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/sayanmondal-sm/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sayanmondal-sm/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -277,4 +280,8 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sayanmondal-sm/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
