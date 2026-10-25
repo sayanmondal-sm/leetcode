@@ -80,6 +80,7 @@
 | [0020-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/sayanmondal-sm/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sayanmondal-sm/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sayanmondal-sm/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/sayanmondal-sm/leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -103,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/sayanmondal-sm/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -277,11 +280,13 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
