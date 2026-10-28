@@ -292,6 +292,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +302,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,4 +316,5 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
