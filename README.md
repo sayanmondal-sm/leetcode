@@ -159,12 +159,14 @@
 | [0226-invert-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/sayanmondal-sm/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/sayanmondal-sm/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -304,6 +306,7 @@
 | [0226-invert-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/sayanmondal-sm/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
@@ -318,6 +321,7 @@
 | [0226-invert-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/sayanmondal-sm/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Counting Sort
