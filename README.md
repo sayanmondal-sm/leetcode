@@ -221,6 +221,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sayanmondal-sm/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0342-power-of-four](https://github.com/sayanmondal-sm/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/sayanmondal-sm/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/sayanmondal-sm/leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -307,6 +308,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sayanmondal-sm/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/sayanmondal-sm/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sayanmondal-sm/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -318,6 +320,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/sayanmondal-sm/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
@@ -335,6 +338,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/sayanmondal-sm/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
