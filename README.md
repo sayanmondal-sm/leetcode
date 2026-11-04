@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sayanmondal-sm/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sayanmondal-sm/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -301,6 +302,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sayanmondal-sm/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Tree
