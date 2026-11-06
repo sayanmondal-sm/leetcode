@@ -224,6 +224,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/sayanmondal-sm/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sayanmondal-sm/leetcode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sayanmondal-sm/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0342-power-of-four](https://github.com/sayanmondal-sm/leetcode/tree/main/0342-power-of-four/) | Easy |
@@ -359,6 +360,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0191-number-of-1-bits](https://github.com/sayanmondal-sm/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
