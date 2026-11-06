@@ -224,6 +224,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/sayanmondal-sm/leetcode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sayanmondal-sm/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0342-power-of-four](https://github.com/sayanmondal-sm/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/sayanmondal-sm/leetcode/tree/main/0389-find-the-difference/) | Easy |
