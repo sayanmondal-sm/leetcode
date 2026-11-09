@@ -22,6 +22,7 @@
 | [0812-largest-triangle-area](https://github.com/sayanmondal-sm/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0835-image-overlap](https://github.com/sayanmondal-sm/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/sayanmondal-sm/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/sayanmondal-sm/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sayanmondal-sm/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0941-valid-mountain-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
@@ -319,6 +320,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sayanmondal-sm/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sayanmondal-sm/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/sayanmondal-sm/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sayanmondal-sm/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sayanmondal-sm/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Tree
