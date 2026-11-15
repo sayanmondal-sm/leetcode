@@ -33,6 +33,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sayanmondal-sm/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sayanmondal-sm/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sayanmondal-sm/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -86,6 +87,7 @@
 | [0812-largest-triangle-area](https://github.com/sayanmondal-sm/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/sayanmondal-sm/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sayanmondal-sm/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2235-add-two-integers](https://github.com/sayanmondal-sm/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sayanmondal-sm/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/sayanmondal-sm/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -118,6 +120,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sayanmondal-sm/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/sayanmondal-sm/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +130,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/sayanmondal-sm/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
