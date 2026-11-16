@@ -27,6 +27,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0941-valid-mountain-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/sayanmondal-sm/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sayanmondal-sm/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sayanmondal-sm/leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -191,12 +192,14 @@
 | [0226-invert-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/sayanmondal-sm/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/sayanmondal-sm/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/sayanmondal-sm/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/sayanmondal-sm/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0994-rotting-oranges](https://github.com/sayanmondal-sm/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Simulation
