@@ -115,6 +115,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sayanmondal-sm/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sayanmondal-sm/leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sayanmondal-sm/leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/sayanmondal-sm/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
