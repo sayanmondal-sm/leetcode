@@ -40,6 +40,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/sayanmondal-sm/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/sayanmondal-sm/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sayanmondal-sm/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sayanmondal-sm/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sayanmondal-sm/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -78,6 +79,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sayanmondal-sm/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sayanmondal-sm/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sayanmondal-sm/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/sayanmondal-sm/leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sayanmondal-sm/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sayanmondal-sm/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
