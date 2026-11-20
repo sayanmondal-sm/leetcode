@@ -126,6 +126,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sayanmondal-sm/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/sayanmondal-sm/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sayanmondal-sm/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@
 | [0404-sum-of-left-leaves](https://github.com/sayanmondal-sm/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0547-number-of-provinces](https://github.com/sayanmondal-sm/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sayanmondal-sm/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sayanmondal-sm/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
@@ -202,6 +204,7 @@
 | [0404-sum-of-left-leaves](https://github.com/sayanmondal-sm/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0547-number-of-provinces](https://github.com/sayanmondal-sm/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sayanmondal-sm/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/sayanmondal-sm/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sayanmondal-sm/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -316,6 +319,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sayanmondal-sm/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sayanmondal-sm/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,6 +413,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sayanmondal-sm/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/sayanmondal-sm/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sayanmondal-sm/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/sayanmondal-sm/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sayanmondal-sm/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
@@ -441,4 +446,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/sayanmondal-sm/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sayanmondal-sm/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
