@@ -185,6 +185,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sayanmondal-sm/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/sayanmondal-sm/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0547-number-of-provinces](https://github.com/sayanmondal-sm/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/sayanmondal-sm/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -198,6 +199,7 @@
 | [0207-course-schedule](https://github.com/sayanmondal-sm/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/sayanmondal-sm/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0547-number-of-provinces](https://github.com/sayanmondal-sm/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/sayanmondal-sm/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sayanmondal-sm/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -405,6 +407,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sayanmondal-sm/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/sayanmondal-sm/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sayanmondal-sm/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -417,5 +420,6 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/sayanmondal-sm/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sayanmondal-sm/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
