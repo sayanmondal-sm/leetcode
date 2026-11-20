@@ -36,6 +36,7 @@
 | [1470-shuffle-the-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/sayanmondal-sm/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1929-concatenation-of-array](https://github.com/sayanmondal-sm/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sayanmondal-sm/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/sayanmondal-sm/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -408,6 +409,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sayanmondal-sm/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/sayanmondal-sm/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/sayanmondal-sm/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sayanmondal-sm/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -421,5 +423,22 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/sayanmondal-sm/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/sayanmondal-sm/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sayanmondal-sm/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sayanmondal-sm/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sayanmondal-sm/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sayanmondal-sm/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sayanmondal-sm/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
