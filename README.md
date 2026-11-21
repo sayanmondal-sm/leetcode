@@ -190,6 +190,7 @@
 | [0547-number-of-provinces](https://github.com/sayanmondal-sm/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sayanmondal-sm/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/sayanmondal-sm/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/sayanmondal-sm/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
@@ -414,6 +415,7 @@
 | [0207-course-schedule](https://github.com/sayanmondal-sm/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/sayanmondal-sm/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sayanmondal-sm/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/sayanmondal-sm/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/sayanmondal-sm/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sayanmondal-sm/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
@@ -450,4 +452,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sayanmondal-sm/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/sayanmondal-sm/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/sayanmondal-sm/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
