@@ -282,6 +282,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/sayanmondal-sm/leetcode/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/sayanmondal-sm/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/sayanmondal-sm/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sayanmondal-sm/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -301,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sayanmondal-sm/leetcode/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/sayanmondal-sm/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/sayanmondal-sm/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -361,6 +363,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/sayanmondal-sm/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sayanmondal-sm/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -382,6 +385,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/sayanmondal-sm/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sayanmondal-sm/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -406,6 +410,7 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/sayanmondal-sm/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sayanmondal-sm/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -460,4 +465,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/sayanmondal-sm/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sayanmondal-sm/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
