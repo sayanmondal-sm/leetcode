@@ -115,6 +115,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sayanmondal-sm/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayanmondal-sm/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sayanmondal-sm/leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sayanmondal-sm/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sayanmondal-sm/leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2418-sort-the-people](https://github.com/sayanmondal-sm/leetcode/tree/main/2418-sort-the-people/) | Easy |
