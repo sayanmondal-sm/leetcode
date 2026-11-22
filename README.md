@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sayanmondal-sm/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sayanmondal-sm/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayanmondal-sm/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sayanmondal-sm/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -145,6 +146,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sayanmondal-sm/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sayanmondal-sm/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sayanmondal-sm/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -357,6 +359,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -379,6 +382,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -403,6 +407,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sayanmondal-sm/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sayanmondal-sm/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sayanmondal-sm/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0191-number-of-1-bits](https://github.com/sayanmondal-sm/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
