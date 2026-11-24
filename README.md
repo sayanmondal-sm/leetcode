@@ -46,6 +46,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/sayanmondal-sm/leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sayanmondal-sm/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sayanmondal-sm/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sayanmondal-sm/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sayanmondal-sm/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/sayanmondal-sm/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -94,6 +95,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sayanmondal-sm/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sayanmondal-sm/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2235-add-two-integers](https://github.com/sayanmondal-sm/leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sayanmondal-sm/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sayanmondal-sm/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/sayanmondal-sm/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sayanmondal-sm/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -323,6 +325,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sayanmondal-sm/leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sayanmondal-sm/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sayanmondal-sm/leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sayanmondal-sm/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,4 +482,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sayanmondal-sm/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sayanmondal-sm/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sayanmondal-sm/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
